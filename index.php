@@ -8,6 +8,7 @@
     * {
         font-family: Verdana, Geneva, sans-serif;
     }
+    </style>
     <meta charset="UTF-8">
     </head>
     <body>
