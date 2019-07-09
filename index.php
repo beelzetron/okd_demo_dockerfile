@@ -33,7 +33,10 @@ $str = "
     </p>
     <p>
     <em>Powered by<br>
-    <img src='assets/image001.png'></em>
+    <img src='image001.png'></em>
+    </p>
+    <p>
+    <em>version 1.0</em>
     </p>
     </body>
     </html>";
