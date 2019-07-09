@@ -1,6 +1,7 @@
 <?php
 date_default_timezone_set('Europe/Rome');
 $current_date = date('d/m/Y H:i:s');
+$hostname = gethostname();
 $str = "
     <!DOCTYPE html>
     <html>
@@ -21,7 +22,7 @@ $str = "
     </p>
     <p>
     <h2>
-    I am " . $_SERVER['SERVER_NAME'] . " and I am a container.
+    I am " . $hostname . " and I am a container.
     </h2>
     </p>
     <p>
