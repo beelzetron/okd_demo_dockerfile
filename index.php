@@ -29,8 +29,8 @@ $str = "
     <h3>
     My IP address is " . $_SERVER['SERVER_ADDR'] . ", you invoked me at " . $current_date . "<br>
     using this browser:</p>" . 
-    "<p style="font-family:courier;">" . $_SERVER['HTTP_USER_AGENT'] . "</p>" .
-    "</h3>
+    "<p style="font-family:courier;">" . $_SERVER['HTTP_USER_AGENT'] . "</p>" . "
+    </h3>
     <p>
     <em>Powered by<br>
     <img src='image001.png'></em>
