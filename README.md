@@ -1,6 +1,6 @@
 # OKD PHP Demo Application
 
-This repo contains a simple `index.php` file that launches `phpinfo()` functions to show that is running inside a container.
+This repo contains a simple `index.php` file that shows some infos about the container it is running on.
 
 The `Dockerfile` is present as well.
 
