@@ -22,10 +22,10 @@
         using this browser:\n$_SERVER['HTTP_USER_AGENT']
     </h3>
     </p>
-    <p style="text-align:center;">
-    <em>Powered by <img src="assets/image001.png"></em>
+    <p style='text-align:center;'>
+    <em>Powered by <img src='assets/image001.png'></em>
     </p>
     </body>
     </html>
-")
+");
 ?>
