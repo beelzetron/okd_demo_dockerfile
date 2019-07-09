@@ -32,7 +32,7 @@ $str = "
 </h4>
 <p><em>Powered by<br>
 <img src='image001.png'></em></p>
-<p><em>version 1.0</em></p>
+<p><em>version 1.1</em></p>
 </body>
 </html>";
 
